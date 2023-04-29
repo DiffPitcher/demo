@@ -21,6 +21,7 @@ Here are examples of template-based automatic pitch shifting where the pitch cur
         <td><audio controls="" style="width: 180px;height: 50px"><source src="samples/chinese/0_in.wav" type="audio/wav" /></audio></td>
     </tr>
   </tbody>
+  </table>
 <hr>
 
 
