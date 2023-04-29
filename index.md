@@ -40,6 +40,7 @@ Here are examples of template-based automatic pitch shifting where the pitch cur
         <td><audio controls="" style="width: 180px;height: 50px"><source src="samples/world/c_f1_0_pw.wav" type="audio/wav" /></audio></td>
     </tr>
   </tbody>
+  </table>
 <hr>
 
 
@@ -56,6 +57,7 @@ Here are examples of template-based automatic pitch shifting where the pitch cur
         <td><audio controls="" style="width: 180px;height: 50px"><source src="samples/chinese/1_in.wav" type="audio/wav" /></audio></td>
     </tr>
   </tbody>
+  </table>
 <hr>
 
 
@@ -74,6 +76,7 @@ Here are examples of template-based automatic pitch shifting where the pitch cur
         <td><audio controls="" style="width: 180px;height: 50px"><source src="samples/world/c_f3_4_pw.wav" type="audio/wav" /></audio></td>
     </tr>
   </tbody>
+  </table>
 <hr>
 
 #### sample 3
@@ -89,6 +92,7 @@ Here are examples of template-based automatic pitch shifting where the pitch cur
         <td><audio controls="" style="width: 180px;height: 50px"><source src="samples/chinese/2_in.wav" type="audio/wav" /></audio></td>
     </tr>
   </tbody>
+  </table>
 <hr>
 
 
@@ -107,4 +111,5 @@ Here are examples of template-based automatic pitch shifting where the pitch cur
         <td><audio controls="" style="width: 180px;height: 50px"><source src="samples/world/c_m2_16_pw.wav" type="audio/wav" /></audio></td>
     </tr>
   </tbody>
+  </table>
 <hr>
