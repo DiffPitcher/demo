@@ -2,7 +2,7 @@
 
 ### Framework
 
-![Framework](Diff-Pitcher.png)
+![Framework](diff-pitcher.png)
 
 ### Template-based Pitch Shifting Examples
 
