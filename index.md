@@ -1,4 +1,4 @@
-## Diff-Pitcher: Diffusion-based Singing Voice Pitch Correction
+<!-- ## Diff-Pitcher: Diffusion-based Singing Voice Pitch Correction -->
 
 ### Framework
 
