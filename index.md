@@ -43,6 +43,7 @@ Here are examples of template-based automatic pitch correction where the pitch c
       <tbody>
       </table>
 <hr>
+
 #### Sample 2 (CH/Female)
 
 <table style='text-align: center;'>
@@ -76,6 +77,7 @@ Here are examples of template-based automatic pitch correction where the pitch c
       <tbody>
       </table>
 <hr>
+
 #### Sample 3 (CH/Male)
 
 <table style='text-align: center;'>
