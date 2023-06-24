@@ -1,5 +1,5 @@
 # DiffPitcher
 
-demo page: https://diffpitcher.github.io/demo/
+🎵[Demo Page](https://diffpitcher.github.io/demo/)
 
-code: https://github.com/DiffPitcher/DiffPitcher
+📄Code: [DiffPitcher Pytorch](https://github.com/DiffPitcher/DiffPitcher)
