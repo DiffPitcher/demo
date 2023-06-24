@@ -26,7 +26,7 @@ Here are examples of template-based automatic pitch correction where the pitch c
 </table>
 <hr>
 
-<table style='text-align: center;'>
+<table align="center" style="margin: 0px auto;">
   <tbody>
     <tr>
         <td><b>Diff-Pitcher-WORLD</b></td>
@@ -46,7 +46,7 @@ Here are examples of template-based automatic pitch correction where the pitch c
 
 #### Sample 2 (CH/Female)
 
-<table style='text-align: center;'>
+<table align="center" style="margin: 0px auto;">
   <tbody>
     <tr>
       <td>Out-of-tune audio</td>
@@ -60,7 +60,7 @@ Here are examples of template-based automatic pitch correction where the pitch c
 </table>
 <hr>
 
-<table style='text-align: center;'>
+<table align="center" style="margin: 0px auto;">
   <tbody>
     <tr>
         <td><b>Diff-Pitcher-WORLD</b></td>
@@ -80,7 +80,7 @@ Here are examples of template-based automatic pitch correction where the pitch c
 
 #### Sample 3 (CH/Male)
 
-<table style='text-align: center;'>
+<table align="center" style="margin: 0px auto;">
   <tbody>
     <tr>
       <td>Out-of-tune audio</td>
@@ -94,7 +94,7 @@ Here are examples of template-based automatic pitch correction where the pitch c
 </table>
 <hr>
 
-<table style='text-align: center;'>
+<table align="center" style="margin: 0px auto;">
   <tbody>
     <tr>
         <td><b>Diff-Pitcher-WORLD</b></td>
@@ -114,7 +114,7 @@ Here are examples of template-based automatic pitch correction where the pitch c
 
 #### Sample 4 (EN/Female)
 
-<table style='text-align: center;'>
+<table align="center" style="margin: 0px auto;">
   <tbody>
     <tr>
       <td>Out-of-tune audio</td>
@@ -128,7 +128,7 @@ Here are examples of template-based automatic pitch correction where the pitch c
 </table>
 <hr>
 
-<table style='text-align: center;'>
+<table align="center" style="margin: 0px auto;">
   <tbody>
     <tr>
         <td><b>Diff-Pitcher-WORLD</b></td>
@@ -148,7 +148,7 @@ Here are examples of template-based automatic pitch correction where the pitch c
 
 #### Sample 5 (EN/Female)
 
-<table style='text-align: center;'>
+<table align="center" style="margin: 0px auto;">
   <tbody>
     <tr>
       <td>Out-of-tune audio</td>
@@ -162,7 +162,7 @@ Here are examples of template-based automatic pitch correction where the pitch c
 </table>
 <hr>
 
-<table style='text-align: center;'>
+<table align="center" style="margin: 0px auto;">
   <tbody>
     <tr>
         <td><b>Diff-Pitcher-WORLD</b></td>
@@ -182,7 +182,7 @@ Here are examples of template-based automatic pitch correction where the pitch c
 
 #### Sample 6 (EN/Male)
 
-<table style='text-align: center;'>
+<table align="center" style="margin: 0px auto;">
   <tbody>
     <tr>
       <td>Out-of-tune audio</td>
@@ -196,7 +196,7 @@ Here are examples of template-based automatic pitch correction where the pitch c
 </table>
 <hr>
 
-<table style='text-align: center;'>
+<table align="center" style="margin: 0px auto;">
   <tbody>
     <tr>
         <td><b>Diff-Pitcher-WORLD</b></td>
@@ -220,7 +220,7 @@ Here are examples of score-based automatic pitch correction where the pitch curv
 
 #### Sample 1 (CH/Female)
 
-<table style='text-align: center;'>
+<table align="center" style="margin: 0px auto;">
   <tbody>
     <tr>
        <img style="width: 720px;height: 540px" src="samples/pitch_predictor/pic/f1_0.wav.png">
@@ -229,7 +229,7 @@ Here are examples of score-based automatic pitch correction where the pitch curv
 </table>
 <hr>
 
-<table style='text-align: center;'>
+<table align="center" style="margin: 0px auto;">
   <tbody>
     <tr>
       <td>Out-of-tune audio</td>
@@ -247,7 +247,7 @@ Here are examples of score-based automatic pitch correction where the pitch curv
 
 #### Sample 2 (CH/Female)
 
-<table style='text-align: center;'>
+<table align="center" style="margin: 0px auto;">
   <tbody>
     <tr>
        <img style="width: 720px;height: 540px" src="samples/pitch_predictor/pic/f1_8.wav.png">
@@ -256,7 +256,7 @@ Here are examples of score-based automatic pitch correction where the pitch curv
 </table>
 <hr>
 
-<table style='text-align: center;'>
+<table align="center" style="margin: 0px auto;">
   <tbody>
     <tr>
       <td>Out-of-tune audio</td>
@@ -274,7 +274,7 @@ Here are examples of score-based automatic pitch correction where the pitch curv
 
 #### Sample 3 (CH/Female)
 
-<table style='text-align: center;'>
+<table align="center" style="margin: 0px auto;">
   <tbody>
     <tr>
        <img style="width: 720px;height: 540px" src="samples/pitch_predictor/pic/f2_4.wav.png">
@@ -283,7 +283,7 @@ Here are examples of score-based automatic pitch correction where the pitch curv
 </table>
 <hr>
 
-<table style='text-align: center;'>
+<table align="center" style="margin: 0px auto;">
   <tbody>
     <tr>
       <td>Out-of-tune audio</td>
@@ -301,7 +301,7 @@ Here are examples of score-based automatic pitch correction where the pitch curv
 
 #### Sample 4 (CH/Female)
 
-<table style='text-align: center;'>
+<table align="center" style="margin: 0px auto;">
   <tbody>
     <tr>
        <img style="width: 720px;height: 540px" src="samples/pitch_predictor/pic/f3_16.wav.png">
@@ -310,7 +310,7 @@ Here are examples of score-based automatic pitch correction where the pitch curv
 </table>
 <hr>
 
-<table style='text-align: center;'>
+<table align="center" style="margin: 0px auto;">
   <tbody>
     <tr>
       <td>Out-of-tune audio</td>
@@ -328,7 +328,7 @@ Here are examples of score-based automatic pitch correction where the pitch curv
 
 #### Sample 5 (CH/Male)
 
-<table style='text-align: center;'>
+<table align="center" style="margin: 0px auto;">
   <tbody>
     <tr>
        <img style="width: 720px;height: 540px" src="samples/pitch_predictor/pic/m2_1.wav.png">
@@ -337,7 +337,7 @@ Here are examples of score-based automatic pitch correction where the pitch curv
 </table>
 <hr>
 
-<table style='text-align: center;'>
+<table align="center" style="margin: 0px auto;">
   <tbody>
     <tr>
       <td>Out-of-tune audio</td>
@@ -355,7 +355,7 @@ Here are examples of score-based automatic pitch correction where the pitch curv
 
 #### Sample 6 (CH/Male)
 
-<table style='text-align: center;'>
+<table align="center" style="margin: 0px auto;">
   <tbody>
     <tr>
        <img style="width: 720px;height: 540px" src="samples/pitch_predictor/pic/m2_9.wav.png">
@@ -364,7 +364,7 @@ Here are examples of score-based automatic pitch correction where the pitch curv
 </table>
 <hr>
 
-<table style='text-align: center;'>
+<table align="center" style="margin: 0px auto;">
   <tbody>
     <tr>
       <td>Out-of-tune audio</td>
