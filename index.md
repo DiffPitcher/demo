@@ -1,4 +1,4 @@
-## Diff-Pitcher: Diffusion-based Singing Voice Pitch Correction
+## DiffPitcher: Diffusion-based Singing Voice Pitch Correction
 
 ### Framework
 
@@ -33,8 +33,8 @@ Here are examples of template-based automatic pitch correction where the pitch c
 <table align="center" style="margin: 0px auto;">
   <tbody>
     <tr>
-        <td><b>Diff-Pitcher-WORLD</b></td>
-      <td>Diff-Pitcher-LPC</td>
+        <td><b>DiffPitcher-WORLD</b></td>
+      <td>DiffPitcher-LPC</td>
       <td>SiFi-GAN</td>
       <td>WORLD Vocoder</td>
     </tr>
@@ -100,8 +100,8 @@ Here are examples of template-based automatic pitch correction where the pitch c
 <table align="center" style="margin: 0px auto;">
   <tbody>
     <tr>
-        <td><b>Diff-Pitcher-WORLD</b></td>
-      <td>Diff-Pitcher-LPC</td>
+        <td><b>DiffPitcher-WORLD</b></td>
+      <td>DiffPitcher-LPC</td>
       <td>SiFi-GAN</td>
       <td>WORLD Vocoder</td>
     </tr>
@@ -135,8 +135,8 @@ Here are examples of template-based automatic pitch correction where the pitch c
 <table align="center" style="margin: 0px auto;">
   <tbody>
     <tr>
-        <td><b>Diff-Pitcher-WORLD</b></td>
-      <td>Diff-Pitcher-LPC</td>
+        <td><b>DiffPitcher-WORLD</b></td>
+      <td>DiffPitcher-LPC</td>
       <td>SiFi-GAN</td>
       <td>WORLD Vocoder</td>
     </tr>
@@ -168,8 +168,8 @@ Here are examples of template-based automatic pitch correction where the pitch c
 <table align="center" style="margin: 0px auto;">
   <tbody>
     <tr>
-        <td><b>Diff-Pitcher-WORLD</b></td>
-      <td>Diff-Pitcher-LPC</td>
+        <td><b>DiffPitcher-WORLD</b></td>
+      <td>DiffPitcher-LPC</td>
       <td>SiFi-GAN</td>
       <td>WORLD Vocoder</td>
     </tr>
@@ -203,8 +203,8 @@ Here are examples of template-based automatic pitch correction where the pitch c
 <table align="center" style="margin: 0px auto;">
   <tbody>
     <tr>
-        <td><b>Diff-Pitcher-WORLD</b></td>
-      <td>Diff-Pitcher-LPC</td>
+        <td><b>DiffPitcher-WORLD</b></td>
+      <td>DiffPitcher-LPC</td>
       <td>SiFi-GAN</td>
       <td>WORLD Vocoder</td>
     </tr>
@@ -237,8 +237,8 @@ Here are examples of template-based automatic pitch correction where the pitch c
 <table align="center" style="margin: 0px auto;">
   <tbody>
     <tr>
-        <td><b>Diff-Pitcher-WORLD</b></td>
-      <td>Diff-Pitcher-LPC</td>
+        <td><b>DiffPitcher-WORLD</b></td>
+      <td>DiffPitcher-LPC</td>
       <td>SiFi-GAN</td>
       <td>WORLD Vocoder</td>
     </tr>
@@ -270,8 +270,8 @@ Here are examples of template-based automatic pitch correction where the pitch c
 <table align="center" style="margin: 0px auto;">
   <tbody>
     <tr>
-        <td><b>Diff-Pitcher-WORLD</b></td>
-      <td>Diff-Pitcher-LPC</td>
+        <td><b>DiffPitcher-WORLD</b></td>
+      <td>DiffPitcher-LPC</td>
       <td>SiFi-GAN</td>
       <td>WORLD Vocoder</td>
     </tr>
@@ -304,8 +304,8 @@ Here are examples of template-based automatic pitch correction where the pitch c
 <table align="center" style="margin: 0px auto;">
   <tbody>
     <tr>
-        <td><b>Diff-Pitcher-WORLD</b></td>
-      <td>Diff-Pitcher-LPC</td>
+        <td><b>DiffPitcher-WORLD</b></td>
+      <td>DiffPitcher-LPC</td>
       <td>SiFi-GAN</td>
       <td>WORLD Vocoder</td>
     </tr>
@@ -339,8 +339,8 @@ Here are examples of template-based automatic pitch correction where the pitch c
 <table align="center" style="margin: 0px auto;">
   <tbody>
     <tr>
-        <td><b>Diff-Pitcher-WORLD</b></td>
-      <td>Diff-Pitcher-LPC</td>
+        <td><b>DiffPitcher-WORLD</b></td>
+      <td>DiffPitcher-LPC</td>
       <td>SiFi-GAN</td>
       <td>WORLD Vocoder</td>
     </tr>
@@ -556,7 +556,7 @@ Here are examples of score-based automatic pitch correction where the pitch curv
       <td>0.04</td>
     </tr>
       <tr>
-      <td>Diff-Pitcher-WORLD</td>
+      <td>DiffPitcher-WORLD</td>
       <td>0.04</td>
       <td>0.03</td>
       <td>0.04</td>
