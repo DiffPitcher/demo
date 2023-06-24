@@ -4,7 +4,7 @@
 
 ![Framework](Difftuner.drawio.png)
 
-code is available: [DiffPitcher](https://github.com/DiffPitcher/DiffPitcher/tree/main)
+😊[DiffPitcher is available!](https://github.com/DiffPitcher/DiffPitcher/tree/main)
 
 ### Template-based Automatic Pitch Correction Examples
 
