@@ -250,6 +250,15 @@ Here are examples of score-based automatic pitch correction where the pitch curv
 <table style='text-align: center;'>
   <tbody>
     <tr>
+       <img style="width: 720px;height: 540px" src="samples/pitch_predictor/pic/f1_8.wav.png">
+    </tr>
+</tbody>
+</table>
+<hr>
+
+<table style='text-align: center;'>
+  <tbody>
+    <tr>
       <td>Out-of-tune audio</td>
       <td>MIDI Notes</td>
         <td><b>Tuned Audio</b></td>
@@ -259,14 +268,20 @@ Here are examples of score-based automatic pitch correction where the pitch curv
         <td><audio controls="" style="width: 180px;height: 50px"><source src="samples/pitch_predictor/midi/f1_8.wav" type="audio/wav" /></audio></td>
         <td><audio controls="" style="width: 180px;height: 50px"><source src="samples/pitch_predictor/tuned/f1_8.wav" type="audio/wav" /></audio></td>
       </tr>
-      <tr>
-       <img src="samples/pitch_predictor/pic/f1_8.wav.png">
-      </tr> 
 </tbody>
 </table>
 <hr>
 
 #### Sample 3 (CH/Female)
+
+<table style='text-align: center;'>
+  <tbody>
+    <tr>
+       <img style="width: 720px;height: 540px" src="samples/pitch_predictor/pic/f2_4.wav.png">
+    </tr>
+</tbody>
+</table>
+<hr>
 
 <table style='text-align: center;'>
   <tbody>
@@ -280,14 +295,20 @@ Here are examples of score-based automatic pitch correction where the pitch curv
         <td><audio controls="" style="width: 180px;height: 50px"><source src="samples/pitch_predictor/midi/f2_4.wav" type="audio/wav" /></audio></td>
         <td><audio controls="" style="width: 180px;height: 50px"><source src="samples/pitch_predictor/tuned/f2_4.wav" type="audio/wav" /></audio></td>
       </tr>
-      <tr>
-       <img src="samples/pitch_predictor/pic/f2_4.wav.png">
-      </tr> 
 </tbody>
 </table>
 <hr>
 
 #### Sample 4 (CH/Female)
+
+<table style='text-align: center;'>
+  <tbody>
+    <tr>
+       <img style="width: 720px;height: 540px" src="samples/pitch_predictor/pic/f3_16.wav.png">
+    </tr>
+</tbody>
+</table>
+<hr>
 
 <table style='text-align: center;'>
   <tbody>
@@ -301,14 +322,20 @@ Here are examples of score-based automatic pitch correction where the pitch curv
         <td><audio controls="" style="width: 180px;height: 50px"><source src="samples/pitch_predictor/midi/f3_16.wav" type="audio/wav" /></audio></td>
         <td><audio controls="" style="width: 180px;height: 50px"><source src="samples/pitch_predictor/tuned/f3_16.wav" type="audio/wav" /></audio></td>
       </tr>
-      <tr>
-       <img src="samples/pitch_predictor/pic/f3_16.wav.png">
-      </tr> 
 </tbody>
 </table>
 <hr>
 
 #### Sample 5 (CH/Male)
+
+<table style='text-align: center;'>
+  <tbody>
+    <tr>
+       <img style="width: 720px;height: 540px" src="samples/pitch_predictor/pic/m2_1.wav.png">
+    </tr>
+</tbody>
+</table>
+<hr>
 
 <table style='text-align: center;'>
   <tbody>
@@ -322,14 +349,20 @@ Here are examples of score-based automatic pitch correction where the pitch curv
         <td><audio controls="" style="width: 180px;height: 50px"><source src="samples/pitch_predictor/midi/m2_1.wav" type="audio/wav" /></audio></td>
         <td><audio controls="" style="width: 180px;height: 50px"><source src="samples/pitch_predictor/tuned/m2_1.wav" type="audio/wav" /></audio></td>
       </tr>
-      <tr>
-       <img src="samples/pitch_predictor/pic/m2_1.wav.png">
-      </tr> 
 </tbody>
 </table>
 <hr>
 
 #### Sample 6 (CH/Male)
+
+<table style='text-align: center;'>
+  <tbody>
+    <tr>
+       <img style="width: 720px;height: 540px" src="samples/pitch_predictor/pic/m2_9.wav.png">
+    </tr>
+</tbody>
+</table>
+<hr>
 
 <table style='text-align: center;'>
   <tbody>
@@ -343,9 +376,6 @@ Here are examples of score-based automatic pitch correction where the pitch curv
         <td><audio controls="" style="width: 180px;height: 50px"><source src="samples/pitch_predictor/midi/m2_9.wav" type="audio/wav" /></audio></td>
         <td><audio controls="" style="width: 180px;height: 50px"><source src="samples/pitch_predictor/tuned/m2_9.wav" type="audio/wav" /></audio></td>
       </tr>
-      <tr>
-       <img src="samples/pitch_predictor/pic/m2_9.wav.png">
-      </tr> 
 </tbody>
 </table>
 <hr>
