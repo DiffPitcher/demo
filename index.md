@@ -2,7 +2,7 @@
 
 ### Framework
 
-![Framework](DiffPitcher.png)
+![Framework](Difftuner.drawio.png)
 
 ### Template-based Automatic Pitch Correction Examples
 
