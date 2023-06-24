@@ -40,8 +40,8 @@ Here are examples of template-based automatic pitch correction where the pitch c
         <td><audio controls="" style="width: 180px;height: 50px"><source src="samples/sifigan/c_f1_0_sifi.wav" type="audio/wav" /></audio></td>
         <td><audio controls="" style="width: 180px;height: 50px"><source src="samples/world/c_f1_0_pw.wav" type="audio/wav" /></audio></td>
       </tr>
-      <tbody>
-      </table>
+</tbody>
+</table>
 <hr>
 
 #### Sample 2 (CH/Female)
@@ -74,8 +74,8 @@ Here are examples of template-based automatic pitch correction where the pitch c
         <td><audio controls="" style="width: 180px;height: 50px"><source src="samples/sifigan/c_f3_4_sifi.wav" type="audio/wav" /></audio></td>
         <td><audio controls="" style="width: 180px;height: 50px"><source src="samples/world/c_f3_4_pw.wav" type="audio/wav" /></audio></td>
       </tr>
-      <tbody>
-      </table>
+</tbody>
+</table>
 <hr>
 
 #### Sample 3 (CH/Male)
@@ -108,7 +108,7 @@ Here are examples of template-based automatic pitch correction where the pitch c
         <td><audio controls="" style="width: 180px;height: 50px"><source src="samples/sifigan/c_m2_16_sifi.wav" type="audio/wav" /></audio></td>
         <td><audio controls="" style="width: 180px;height: 50px"><source src="samples/world/c_m2_16_pw.wav" type="audio/wav" /></audio></td>
       </tr>
-      <tbody>
+      </tbody>
       </table>
 <hr>
 
@@ -142,7 +142,7 @@ Here are examples of template-based automatic pitch correction where the pitch c
         <td><audio controls="" style="width: 180px;height: 50px"><source src="samples/sifigan/e_f2_5_sifi.wav" type="audio/wav" /></audio></td>
         <td><audio controls="" style="width: 180px;height: 50px"><source src="samples/world/e_f2_5_pw.wav" type="audio/wav" /></audio></td>
       </tr>
-      <tbody>
+      </tbody>
       </table>
 <hr>
 
@@ -176,7 +176,7 @@ Here are examples of template-based automatic pitch correction where the pitch c
         <td><audio controls="" style="width: 180px;height: 50px"><source src="samples/sifigan/e_f7_9_sifi.wav" type="audio/wav" /></audio></td>
         <td><audio controls="" style="width: 180px;height: 50px"><source src="samples/world/e_f7_9_pw.wav" type="audio/wav" /></audio></td>
       </tr>
-      <tbody>
+      </tbody>
       </table>
 <hr>
 
@@ -210,7 +210,7 @@ Here are examples of template-based automatic pitch correction where the pitch c
         <td><audio controls="" style="width: 180px;height: 50px"><source src="samples/sifigan/e_m4_1_sifi.wav" type="audio/wav" /></audio></td>
         <td><audio controls="" style="width: 180px;height: 50px"><source src="samples/world/e_m4_1_pw.wav" type="audio/wav" /></audio></td>
       </tr>
-      <tbody>
+      </tbody>
       </table>
 <hr>
 
