@@ -223,7 +223,7 @@ Here are examples of score-based automatic pitch correction where the pitch curv
 <table style='text-align: center;'>
   <tbody>
     <tr>
-       <img style="width: 720px;height: 540px"> src="samples/pitch_predictor/pic/f1_0.wav.png">
+       <img style="width: 720px;height: 540px" src="samples/pitch_predictor/pic/f1_0.wav.png">
     </tr>
 </tbody>
 </table>
