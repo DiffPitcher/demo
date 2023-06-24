@@ -12,7 +12,7 @@ Here are examples of template-based automatic pitch correction where the pitch c
 
 #### Sample 1 (CH/Female)
 
-<table style='text-align: center;'>
+<table align="center" style="margin: 0px auto;">
   <tbody>
     <tr>
       <td>Out-of-tune audio</td>
