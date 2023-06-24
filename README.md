@@ -1,3 +1,5 @@
-# Demo page of DiffPitcher
+# DiffPitcher
 
-https://diffpitcher.github.io/demo/
+demo page: https://diffpitcher.github.io/demo/
+
+code: https://github.com/DiffPitcher/DiffPitcher
