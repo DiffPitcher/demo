@@ -413,7 +413,7 @@ Objective Experiment: Log RMSE of Pitch Shifting
       <tr>
       <td>Diff-Pitcher-WORLD</td>
       <td>0.04</td>
-      <td>0.04</td>
+      <td>0.03</td>
       <td>0.04</td>
       <td>0.04</td>
       <td>0.06</td>
