@@ -2,7 +2,7 @@
 
 ### Framework
 
-![Framework](Diff-Pitcher.png)
+![Framework](DiffPitcher.png)
 
 ### Template-based Automatic Pitch Correction Examples
 
