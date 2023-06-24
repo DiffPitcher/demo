@@ -383,4 +383,41 @@ Here are examples of score-based automatic pitch correction where the pitch curv
 <hr>
 
 ### Appendix
-
+Objective Experiment: Log RMSE of Pitch Shifting
+<table align="center" style="margin: 0px auto;">
+  <tbody>
+    <tr>
+      <td>Approach</td>
+      <td>-6 Semitones</td>
+      <td>-3 Semitones</td>
+      <td>Reconstruction</td>
+      <td>+3 Semitones</td>
+      <td>+6 Semitones</td>
+    </tr>
+    <tr>
+      <td>WORLD</td>
+      <td>0.03</td>
+      <td>0.03</td>
+      <td>0.03</td>
+      <td>0.03</td>
+      <td>0.03</td>
+    </tr>
+      <tr>
+      <td>SIFI-GAN</td>
+      <td>0.05</td>
+      <td>0.04</td>
+      <td>0.04</td>
+      <td>0.05</td>
+      <td>0.04</td>
+    </tr>
+      <tr>
+      <td>Diff-Pitcher-WORLD</td>
+      <td>0.04</td>
+      <td>0.04</td>
+      <td>0.04</td>
+      <td>0.04</td>
+      <td>0.06</td>
+    </tr>
+</tbody>
+</table>
+<hr>
