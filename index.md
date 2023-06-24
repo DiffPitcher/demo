@@ -224,6 +224,19 @@ Here are examples of score-based automatic pitch correction where the pitch curv
   <tbody>
     <tr>
       <td>Out-of-tune audio</td>
+      <td>Template audio</td>
+    </tr>
+    <tr>
+       <img src="samples/pitch_predictor/pic/f1_0.wav.png">
+    </tr>
+</tbody>
+</table>
+<hr>
+
+<table style='text-align: center;'>
+  <tbody>
+    <tr>
+      <td>Out-of-tune audio</td>
       <td>MIDI Notes</td>
         <td><b>Tuned Audio</b></td>
     </tr>
@@ -231,10 +244,7 @@ Here are examples of score-based automatic pitch correction where the pitch curv
         <td><audio controls="" style="width: 180px;height: 50px"><source src="samples/pitch_predictor/detuned/f1_0.wav" type="audio/wav" /></audio></td>
         <td><audio controls="" style="width: 180px;height: 50px"><source src="samples/pitch_predictor/midi/f1_0.wav" type="audio/wav" /></audio></td>
         <td><audio controls="" style="width: 180px;height: 50px"><source src="samples/pitch_predictor/tuned/f1_0.wav" type="audio/wav" /></audio></td>
-      </tr>
-      <tr>
-       <img src="samples/pitch_predictor/pic/f1_0.wav.png">
-      </tr> 
+    </tr>
 </tbody>
 </table>
 <hr>
