@@ -8,7 +8,7 @@
 
 Here are examples of template-based automatic pitch correction where the pitch curve of a template audio is transferred to the out-of-tune audio. A Dynamic Time Warping algorithm based on MCEP is applied to further align template pitch curve and the target audio. 
 
-<small><font color="gray">*The degree of off-key singing is notably higher in Chinese examples. Furthermore, these Chinese examples are recorded using mobile devices, mirroring the typical usage scenario of a karaoke app.</font></small>
+<small><font color="gray">*The degree of off-key singing is notably higher in Chinese examples. Furthermore, these Chinese examples are recorded by mobile devices, mirroring the typical usage scenario of a karaoke app.</font></small>
 
 #### Sample 1 (CH/Female)
 
@@ -379,3 +379,6 @@ Here are examples of score-based automatic pitch correction where the pitch curv
 </tbody>
 </table>
 <hr>
+
+### Appendix
+
