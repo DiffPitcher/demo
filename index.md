@@ -252,7 +252,7 @@ Here are examples of score-based automatic pitch correction where the pitch curv
 <table align="center" style="margin: 0px auto;">
   <tbody>
     <tr>
-       <img style="width: 480px;height: 360px" src="samples/pitch_predictor/pic/f1_8.wav.png" class="center">
+       <img style="width: 600px;height: 450px" src="samples/pitch_predictor/pic/f1_8.wav.png" class="center">
     </tr>
 </tbody>
 </table>
@@ -279,7 +279,7 @@ Here are examples of score-based automatic pitch correction where the pitch curv
 <table align="center" style="margin: 0px auto;">
   <tbody>
     <tr>
-       <img style="width: 480px;height: 360px" src="samples/pitch_predictor/pic/f2_4.wav.png" class="center">
+       <img style="width: 600px;height: 450px" src="samples/pitch_predictor/pic/f2_4.wav.png" class="center">
     </tr>
 </tbody>
 </table>
@@ -306,7 +306,7 @@ Here are examples of score-based automatic pitch correction where the pitch curv
 <table align="center" style="margin: 0px auto;">
   <tbody>
     <tr>
-       <img style="width: 480px;height: 360px" src="samples/pitch_predictor/pic/f3_16.wav.png" class="center">
+       <img style="width: 600px;height: 450px" src="samples/pitch_predictor/pic/f3_16.wav.png" class="center">
     </tr>
 </tbody>
 </table>
@@ -333,7 +333,7 @@ Here are examples of score-based automatic pitch correction where the pitch curv
 <table align="center" style="margin: 0px auto;">
   <tbody>
     <tr>
-       <img style="width: 480px;height: 360px" src="samples/pitch_predictor/pic/m2_1.wav.png" class="center">
+       <img style="width: 600px;height: 450px" src="samples/pitch_predictor/pic/m2_1.wav.png" class="center">
     </tr>
 </tbody>
 </table>
@@ -360,7 +360,7 @@ Here are examples of score-based automatic pitch correction where the pitch curv
 <table align="center" style="margin: 0px auto;">
   <tbody>
     <tr>
-       <img style="width: 480px;height: 360px" src="samples/pitch_predictor/pic/m2_9.wav.png" class="center">
+       <img style="width: 600px;height: 450px" src="samples/pitch_predictor/pic/m2_9.wav.png" class="center">
     </tr>
 </tbody>
 </table>
