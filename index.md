@@ -567,3 +567,43 @@ Here are examples of score-based automatic pitch correction where the pitch curv
 </table>
 <hr>
 
+- Word Error Rate of Pitch Shifting
+
+<table align="center" style="margin: 0px auto;">
+  <tbody>
+    <tr>
+      <td>Approach</td>
+      <td>-6 Semitones</td>
+      <td>-3 Semitones</td>
+      <td>Reconstruction</td>
+      <td>+3 Semitones</td>
+      <td>+6 Semitones</td>
+    </tr>
+    <tr>
+      <td>WORLD</td>
+      <td>2.00%</td>
+      <td>2.68%</td>
+      <td>3.23%</td>
+      <td>3.04%</td>
+      <td>2.17%</td>
+    </tr>
+      <tr>
+      <td>SiFi-GAN</td>
+      <td>2.98%</td>
+      <td>2.85%</td>
+      <td>3.35%</td>
+      <td>2.98%</td>
+      <td>3.61%</td>
+    </tr>
+      <tr>
+      <td>DiffPitcher-WORLD</td>
+      <td>2.57%</td>
+      <td>2.41%</td>
+      <td>2.88%</td>
+      <td>2.64%</td>
+      <td>2.23%</td>
+    </tr>
+</tbody>
+</table>
+<hr>
+
