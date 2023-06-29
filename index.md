@@ -12,7 +12,7 @@ Here are examples of template-based automatic pitch correction where the pitch c
 
 <small><font color="gray">*The degree of off-key singing is notably higher in Chinese examples. Furthermore, these Chinese examples are recorded by mobile devices, mirroring the typical usage scenario of a karaoke app.</font></small>
 
-<small><font color="gray">*The paired English recordings are from PopBuTFy, which focuses more on vocal techniques such as Vibrato and a milder degree of out of tune.</font></small>
+<small><font color="gray">*The paired English recordings are from PopBuTFy, which focuses more on fine-grained vocal techniques such as Vibrato rather than extreme off-key.</font></small>
 
 #### Sample 1 (CH/Female)
 
